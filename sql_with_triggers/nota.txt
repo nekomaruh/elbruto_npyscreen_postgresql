@@ -1,0 +1,19 @@
+Instrucciones:
+ 1. Copiar la base de datos elbruto.sql a pgadmin
+ 2. Ejecutar el archivo main.py
+
+Tercera entrega: 
+ - Pruebas de login con jugador: 
+	usuario = 'neko', contraseña '1234'
+ - Pruebas de login con administrador: 
+	usuario = 'admin', contraseña 'elbruto'
+ - Los datos de las peleas realizadas por día se guardan en fights.elbruto
+
+Nota:
+ - Sólo se pueden agregar jugadores en la aplicación, 
+   por defecto los administradores deben agregarse 
+   directamente en la base de datos correspondiente
+
+Integrantes:
+ - Johan Ordenes
+ - Constanza Castro
