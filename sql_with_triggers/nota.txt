@@ -13,7 +13,3 @@ Nota:
  - Sólo se pueden agregar jugadores en la aplicación, 
    por defecto los administradores deben agregarse 
    directamente en la base de datos correspondiente
-
-Integrantes:
- - Johan Ordenes
- - Constanza Castro
